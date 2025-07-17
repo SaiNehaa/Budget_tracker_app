@@ -124,4 +124,4 @@ else:
 
 # Footer
 st.markdown("---")
-st.markdown("🧠 Made with ❤️ using Streamlit | [GitHub](https://github.com)")
+st.markdown("🧠 Made with ❤️ using Streamlit | [GitHub](https://github.com/SaiNehaa/Budget_tracker_app)")
